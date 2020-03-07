@@ -1,0 +1,57 @@
+{
+
+  "customer":{
+
+    "id":"9879898787",
+
+    "firstName":"Neeraj",
+
+    "lastName":"Bakhtani",
+
+    "email":"myemailId@gmail.com"
+
+  },
+
+  "products":[
+
+    {
+
+      "description":"Rest API mocking using WireMock",
+
+      "type":"Course",
+
+      "productAttributes":[
+
+        {
+
+          "courseLenght":"5 hours",
+          "courseRating": "5 stars",
+
+          "courseCreationDate":"2021-01-14",
+
+          "courseLevel":"Advanced"
+
+        }
+
+      ],
+
+      "price":{
+
+        "amount": 100.0,
+
+        "discount": 30.0,
+
+        "paymetType":"VISA CREDIT CARD",
+
+        "currency": "SGD"
+
+      }
+
+    }
+
+  ]
+
+}
+
+
+

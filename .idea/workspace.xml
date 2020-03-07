@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d83dc78-9f92-4d70-9c6c-e1c508c63f25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.3.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yntxbq99zr2IqQIZ1viNn5Y8bd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/__files/json" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T460\Downloads\WireMockTesting\src\test\resources\__files\json" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StubServerMain" />
+      <module name="WireMockTesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d83dc78-9f92-4d70-9c6c-e1c508c63f25" name="Default Changelist" comment="" />
+      <created>1583590433905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583590433905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583594953310">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1583594953310" />
+    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583594730641">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1583594730641" />
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1583596909854">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583596909854" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1583596909854">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583596909854" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1583596909854">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583596909854" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1583596909854">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583596909854" />
+    <state x="390" y="125" width="586" height="488" key="find.popup" timestamp="1583596699433">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="125" width="586" height="488" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1583596699433" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1583595826548">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583595826548" />
+  </component>
+</project>
